@@ -1,2 +1,3 @@
-# ONTOSERVER_api
-Query SNOMED coded data using ECL against the Ontoserver terminology server
+# ONTOSERVER_API
+Query SNOMED coded data using Expression Constraint Language (or other) against the Ontoserver terminology server (Australian version)
+NHS Digital, UK version: https://ontology.nhs.uk/
